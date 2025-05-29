@@ -9,11 +9,17 @@ This is a web application that displays upcoming basketball matches from various
 ## 📁 Project Structure
 basketball-matches-app/
 ├── public/
+
 │ ├── index.html # Frontend HTML
+
 │ ├── style.css # Dark-themed CSS styling
+
 │ └── script.js # Match fetching and rendering logic
+
 ├── server.js # Express backend server
+
 ├── package.json # Node dependencies
+
 └── README.md # You're here!
 
 API Used
