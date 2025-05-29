@@ -8,6 +8,7 @@ This is a web application that displays upcoming basketball matches from various
 
 ## 📁 Project Structure
 basketball-matches-app/
+
 ├── public/
 
 │ ├── index.html # Frontend HTML
